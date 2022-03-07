@@ -1,2 +1,2 @@
-# ecmascript
-Curso de ECMASCRIPT
+# curso-ecmascript
+
